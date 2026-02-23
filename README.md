@@ -72,4 +72,5 @@ O sistema é organizado em módulos funcionais:
 
 ## 🧾 Exemplo de Nota Fiscal Gerada
 
-<img width="417" height="246" alt="image" src="https://github.com/user-attachments/assets/4edba47d-8a82-4918-9f3d-545e7241bf52" />
+<img width="853" height="385" alt="image" src="https://github.com/user-attachments/assets/13900c2f-fea0-4f6d-aee0-0120282c0da6" />
+
