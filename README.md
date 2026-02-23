@@ -1,4 +1,4 @@
-# MACKSHOP - Sistema de Vendas em Java (Console)
+# MACKSHOP - Sistema de Vendas em Java 
 
 ## Descrição
 
